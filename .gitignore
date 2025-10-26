@@ -1,0 +1,85 @@
+# =========================
+# 🔹 Flutter / Dart / Pub
+# =========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+generated_plugin_registrant.dart
+
+# =========================
+# 🔹 IDE / Editor Files
+# =========================
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.history/
+.atom/
+*.swp
+*.swo
+
+# =========================
+# 🔹 OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# =========================
+# 🔹 Logs & Temp Files
+# =========================
+*.log
+*.tmp
+
+# =========================
+# 🔹 Swift / Xcode Related (iOS)
+# =========================
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Runner/GeneratedPluginRegistrant.*
+ios/build/
+ios/.generated/
+
+# =========================
+# 🔹 Android Related
+# =========================
+**/android/local.properties
+**/android/.gradle/
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/android/build/
+**/android/captures/
+.gradle/
+gradle-wrapper.jar
+
+# =========================
+# 🔹 Fastlane & CI
+# =========================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# =========================
+# 🔹 Miscellaneous
+# =========================
+*.class
+*.pyc
+*.so
+*.dll
+*.dSYM
+*.map.json
+app.*.symbols
+app.*.map.json
+migrate_working_dir/
+buildlog/
